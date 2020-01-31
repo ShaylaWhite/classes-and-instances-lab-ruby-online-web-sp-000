@@ -7,3 +7,6 @@ class Person
   alan_kay
 
 
+movie = __
+  movie.title = "This is a title."
+  __
